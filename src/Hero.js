@@ -8,7 +8,7 @@ const Hero = () => {
     <div className="write">
       <div className="flex items-center justify-center h-screen">
         {/* Left Section */}
-        <div className=" D-first">
+        <div className="flex items-center justify-center w-1/2 h-full D-first">
         <div className="row">
           <div className="col-8 , col-left">
             <div className="col-left-h1">
