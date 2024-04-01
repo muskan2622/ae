@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+Demo:
+![image](https://github.com/muskan2622/aeonaxy-react-tailwind/assets/84541807/77dafb14-cd01-4c6e-be7b-69a9626fcf59)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
